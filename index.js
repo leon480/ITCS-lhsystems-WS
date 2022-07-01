@@ -1,1 +1,3 @@
+/*Importierungen*/
 import discord.js
+/*-----------*/
